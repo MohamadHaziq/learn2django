@@ -1,0 +1,6 @@
+## Ignore venv
+
+Include
+Lib
+Scripts
+tcl
